@@ -5,7 +5,6 @@
 
 Create file with:
 
-```bash
 #!/bin/bash
 
 # Update system
@@ -22,4 +21,3 @@ sudo systemctl enable nginx
 
 # Check status
 sudo systemctl status nginx
-```
