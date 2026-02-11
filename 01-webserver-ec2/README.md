@@ -24,7 +24,7 @@ Traffic Flow:
 User → Internet → Internet Gateway → Public Subnet → EC2 → Nginx
 
 ---
-
+![img](images/live-by-siddhu.png)
 ## 🚀 Implementation Steps
 
 1. Launched EC2 instance with public IP enabled.
@@ -39,7 +39,9 @@ User → Internet → Internet Gateway → Public Subnet → EC2 → Nginx
 8. Verified application accessibility via public IP.
 
 ---
-
+![img](images/ami.png)
+![img](images/running-web-server.png)
+![img](images/network.png)
 ## ⚙ Automation
 
 Created a Bash script (`setup-commands.sh`) to automate:
@@ -54,7 +56,7 @@ Also tested automation using EC2 User Data during instance launch.
 This reduced manual configuration steps and ensured consistent setup.
 
 ---
-
+![img](images/status.png)
 ## 🔎 Troubleshooting Performed
 
 ### 1️⃣ Website Not Accessible
@@ -78,6 +80,7 @@ Resolution:
 systemctl start nginx
 
 ---
+![img](images/security.png)
 
 ### 3️⃣ Log Analysis
 
@@ -88,16 +91,6 @@ Checked logs using:
 Validated service startup and error messages.
 
 ---
+![img](images/log.png)
 
-## 🛠 Skills Demonstrated
-
-- EC2 provisioning
-- Linux package management
-- Service management (systemctl)
-- Security Group configuration
-- Basic cloud networking
-- Log inspection
-- Troubleshooting methodology
-- Basic automation using Bash
-
----
+![img](images/live.png)
