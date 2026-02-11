@@ -28,13 +28,15 @@ User → Internet → Internet Gateway → Public Subnet → EC2 → Nginx
 ## 🚀 Implementation Steps
 
 1. Launched EC2 instance with public IP enabled.
-2. Configured Security Group:
+2. use AMI - Red Hat Enterprise Linux 10 (HVM), SSD Volume Type.
+3. use instance type - t3 small
+4. Configured Security Group:
    - SSH (22) – Restricted to my IP
    - HTTP (80) – Open for public access
-3. Connected via SSH.
-4. Installed Nginx using package manager.
-5. Started and enabled service using systemctl.
-6. Verified application accessibility via public IP.
+5. Connected via SSH.
+6. Installed Nginx using package manager.
+7. Started and enabled service using systemctl.
+8. Verified application accessibility via public IP.
 
 ---
 
