@@ -1,10 +1,6 @@
-
----
-
 # 2️⃣ setup-commands.sh
 
-Create file with:
-
+#shebang
 #!/bin/bash
 
 # Update system
