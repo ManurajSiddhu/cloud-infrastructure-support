@@ -1,6 +1,3 @@
-# 2️⃣ setup-commands.sh
-
-#shebang
 #!/bin/bash
 
 # Update system
