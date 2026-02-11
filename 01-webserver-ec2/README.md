@@ -94,3 +94,14 @@ Validated service startup and error messages.
 ![img](images/log.png)
 
 ![img](images/live.png)
+
+## 🎯 Learning Outcomes
+
+- Understood how public cloud networking works, including Internet Gateway and route table configuration.
+- Gained hands-on experience in provisioning and configuring EC2 instances.
+- Learned how Linux services are installed, managed, and enabled using systemctl.
+- Developed troubleshooting skills by diagnosing connectivity and service-related issues.
+- Practiced log analysis using journalctl and system logs.
+- Understood the importance of Security Groups in controlling inbound traffic.
+- Implemented basic automation using Bash scripting and EC2 User Data.
+- Improved ability to identify root cause and resolve infrastructure issues.
