@@ -96,15 +96,3 @@ To build a strong foundation in cloud infrastructure support and demonstrate han
 
 ---
 
-# 📌 Target Role
-
-Cloud Support Engineer  
-Infrastructure Support Engineer  
-Linux Support Engineer  
-Associate Cloud Engineer  
-
----
-
-# 🚀 Key Takeaway
-
-This repository reflects practical implementation rather than theoretical knowledge and focuses on real-world support-oriented problem solving.
